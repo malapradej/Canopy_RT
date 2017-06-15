@@ -1,0 +1,676 @@
+HOM01_TUR_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.5426114373953288, 0.0, 0.0, 0.4573885626046712)
+HOM01_TUR_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM02_TUR_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.39441341306600208, 0.0, 0.0, 0.60558658693399792)
+HOM02_TUR_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM01_TUR_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.5803064204299081, 0.0, 0.0, 0.4196935795700919)
+HOM01_TUR_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM02_TUR_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.68519791055030987, 0.0, 0.0, 0.31480208944969013)
+HOM02_TUR_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM01_TUR_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.83552104945819583, 0.0, 0.0, 0.16447895054180417)
+HOM01_TUR_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM02_TUR_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.11651461507786651, 0.0, 0.0, 0.88348538492213347)
+HOM02_TUR_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM01_TUR_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.27587216095309453, 0.0, 0.0, 0.72412783904690547)
+HOM01_TUR_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM02_TUR_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.13124020276617585, 0.0, 0.0, 0.86875979723382413)
+HOM02_TUR_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM01_TUR_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.29450484809929228, 0.0, 0.0, 0.70549515190070777)
+HOM01_TUR_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM02_TUR_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.22814514542474362, 0.0, 0.0, 0.77185485457525638)
+HOM02_TUR_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM01_TUR_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.40207256601370012, 0.0, 0.0, 0.59792743398629988)
+HOM01_TUR_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM03_DIS_ERE_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.16570674990743819, 0.098295061021966806, 0.20842138308105537, 0.5275768059895396)
+HOM03_DIS_ERE_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM02_TUR_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.35041387665563972, 0.0, 0.0, 0.64958612334436028)
+HOM02_TUR_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM03_DIS_ERE_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.33559460586008866, 0.15113581720850283, 0.085712331990710752, 0.42755724494069763)
+HOM03_DIS_ERE_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM03_DIS_ERE_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.0099301061445342641, 0.0024048764758412087, 0.21635180431600637, 0.77131321306361822)
+HOM03_DIS_ERE_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM03_TUR_UNI_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.20536642218709306, 0.078727240582670069, 0.071221955971000103, 0.64468438125923677)
+HOM03_TUR_UNI_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM03_DIS_ERE_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.01603984421915047, 0.0036363781738858333, 0.088973681127099274, 0.89135009647986441)
+HOM03_DIS_ERE_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM03_TUR_UNI_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.0076714982216066841, 0.0013924307388822959, 0.12153694761595407, 0.86939912342355696)
+HOM03_TUR_UNI_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM03_TUR_PLA_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.074260045292653731, 0.025201019289319462, 0.065771520271232994, 0.83476741514679376)
+HOM03_TUR_PLA_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM03_TUR_UNI_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.012810841020281788, 0.0024001790425978507, 0.073931947161335429, 0.910857032775785)
+HOM03_TUR_UNI_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM03_TUR_PLA_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.11675306907239104, 0.038404920928490245, 0.059181297422695539, 0.78566071257642323)
+HOM03_TUR_PLA_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM05_TUR_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.19985344084390694, 0.0, 0.0, 0.80014655915609301)
+HOM05_TUR_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM03_TUR_PLA_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.0065054171992050963, 0.00079598650164481438, 0.068274122707237109, 0.92442447359191304)
+HOM03_TUR_PLA_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM05_TUR_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.25743940134007653, 0.0, 0.0, 0.74256059865992352)
+HOM05_TUR_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM03_TUR_PLA_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.0097139078776264827, 0.0012758425328360794, 0.061433142271121531, 0.92757710731841592)
+HOM03_TUR_PLA_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM05_TUR_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.60147712563797873, 0.0, 0.0, 0.39852287436202127)
+HOM05_TUR_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM03_TUR_UNI_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = False
+(0.10718687494806643, 0.048633138820574684, 0.11708198504583892, 0.72709800118551993)
+HOM03_TUR_UNI_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = u, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = None, n = None k = None, sgl = True
+HOM05_TUR_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.073067127605680349, 0.0, 0.0, 0.92693287239431965)
+HOM05_TUR_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM05_TUR_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.085139976562161809, 0.0, 0.0, 0.91486002343783823)
+HOM05_TUR_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM11_DIS_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.40268849808371737, 0.0, 0.0, 0.59731150191628268)
+HOM11_DIS_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM05_TUR_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = False
+(0.17481647952615437, 0.0, 0.0, 0.82518352047384558)
+HOM05_TUR_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = None, n = None k = None, sgl = True
+HOM12_DIS_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.35047789308958532, 0.0, 0.0, 0.64952210691041468)
+HOM12_DIS_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM11_DIS_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.54284114592516985, 0.0, 0.0, 0.45715885407483015)
+HOM11_DIS_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM12_DIS_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.3945429485381583, 0.0, 0.0, 0.6054570514618417)
+HOM12_DIS_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM11_DIS_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.58075266016082439, 0.0, 0.0, 0.41924733983917561)
+HOM11_DIS_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM12_DIS_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.68562562453826936, 0.0, 0.0, 0.31437437546173064)
+HOM12_DIS_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM11_DIS_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.83701118353868342, 0.0, 0.0, 0.16298881646131658)
+HOM11_DIS_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM12_DIS_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.1166837414238916, 0.0, 0.0, 0.8833162585761084)
+HOM12_DIS_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM11_DIS_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.27641875993946197, 0.0, 0.0, 0.72358124006053803)
+HOM11_DIS_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM12_DIS_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.131438596355022, 0.0, 0.0, 0.86856140364497803)
+HOM12_DIS_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM11_DIS_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.2951283204095691, 0.0, 0.0, 0.70487167959043084)
+HOM11_DIS_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 1.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM12_DIS_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.22832580505845679, 0.0, 0.0, 0.77167419494154321)
+HOM12_DIS_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 2.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM13_DIS_PLA_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.074284714311982442, 0.025201067532504756, 0.065771520271232994, 0.83474269788427979)
+HOM13_DIS_PLA_NIR_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM15_DIS_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.07308437942833966, 0.0, 0.0, 0.92691562057166033)
+HOM15_DIS_PLA_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM13_DIS_PLA_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.11675755996172482, 0.038404928553476582, 0.059181297422695539, 0.78565621406210318)
+HOM13_DIS_PLA_NIR_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.496, trans = 0.441, refl_s = 0.159, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM15_DIS_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.085165010458893076, 0.0, 0.0, 0.91483498954110698)
+HOM15_DIS_PLA_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM13_DIS_PLA_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.0065080735586748022, 0.00079598680555175501, 0.068274122707237109, 0.92442181692853642)
+HOM13_DIS_PLA_RED_20
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 160.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM15_DIS_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.17481722515803169, 0.0, 0.0, 0.82518277484196834)
+HOM15_DIS_PLA_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM13_DIS_PLA_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = False
+(0.0097143898377773895, 0.0012758425804080716, 0.061433142271121531, 0.92757662531069307)
+HOM13_DIS_PLA_RED_50
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 3.000, 
+    refl = 0.055, trans = 0.015, refl_s = 0.127, F = 1.0000, sun0_zen = 130.000,
+    sun0_azi = 0.000, arch = p, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 2.0, leafd = 0.1, n = None k = None, sgl = True
+HOM15_DIS_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.19985977318823259, 0.0, 0.0, 0.80014022681176744)
+HOM15_DIS_ERE_NR1_00
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 180.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM15_DIS_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.25745525562709143, 0.0, 0.0, 0.74254474437290852)
+HOM15_DIS_ERE_NR1_30
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 150.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
+HOM15_DIS_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = False
+(0.6014789567339025, 0.0, 0.0, 0.3985210432660975)
+HOM15_DIS_ERE_NR1_60
+Tol = 1e-06, Iter = 200, K = 20, N = 4, Beta = 1.000, Lc = 5.000, 
+    refl = 0.500, trans = 0.500, refl_s = 1.000, F = 1.0000, sun0_zen = 120.000,
+    sun0_azi = 0.000, arch = e, ln = nan, cab = nan, car = nan, 
+    cbrown = nan, cw = nan, cm = nan, lamda = nan, CI = 1.00,
+    par = None, Ht = 1.0, leafd = 0.1, n = None k = None, sgl = True
