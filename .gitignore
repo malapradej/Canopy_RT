@@ -22,4 +22,9 @@ test.php~
 test_notebook.ipynb
 two_angle.pyc
 two_angle.pyc
- 
+rami_debug/
+data/
+*.swp
+.gitignore
+.gitignore~ 
+.ipynb_checkpoints/

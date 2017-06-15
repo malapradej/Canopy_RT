@@ -21,3 +21,14 @@ There are various plotting and evaluation functions that can be used such as Sca
 >> ? oa.plot_brdf()
 or
 >> ? test.Scalar_flux()
+
+A brief description of the files and modules:
+radtran.py - This is the module that contains code used in other modules. Functions that are common to all RT codes are stored here. 
+one_angel.py - This is the one angle RT code for homogeneous vegetation. This is the simplest code which does not include azimuth angles for the solution.
+two_angle.py - This is the two angle RT code for homogeneous vegetation. This includes azimuths as well as sky downwelling radiation, Clumping, a hotspot, and specular reflection. 
+ThreeD_angle.py - This is the 3D RT code. This is for heterogenous vegetation types and requires a file describing the vegetation.
+p_theory.py - This is the module containing the formulas required in spectral invariant calculations. 
+lad_model_quad.py - The program that creates the heterogenous vegetation structure file used by the 3D code. 
+leaf_angle_distribution.py - This module contains the code for various leaf normal probability density function distributions. 
+nose_test.py - The nosetest program that tests all the RT functions against known truth values. 
+rami_test.py - A program that runs all the simulations for comparison to the RAMI-ROMC project. They are saved in the required format for upload to the ROMC website.   
